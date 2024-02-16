@@ -1,6 +1,6 @@
 
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/xiaomi/veux-gcam
+    vendor/xiaomi/stone-gcam
 
 
 PRODUCT_PACKAGES += \
